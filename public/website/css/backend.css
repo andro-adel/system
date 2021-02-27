@@ -1,0 +1,32 @@
+
+/*navbar*/
+
+.navbar{
+    background-color: #8ac727 !important;
+}
+
+/*navbar*/
+
+/*forma*/
+
+@font-face {
+    font-family: JosefinSans-R;
+    src: url(../website/webfonts/JosefinSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Tajawal-Regular;
+    src: url(../website/webfonts/Tajawal-Regular.ttf);
+}
+
+.regis {
+    font-family: JosefinSans-R !important;
+    font-size: 2rem;
+}
+
+.text-arabicop{
+    float: right !important;  
+    font-family: Tajawal-Regular !important; 
+    direction: rtl !important;
+    font-weight: bold!important;
+}
